@@ -9,7 +9,10 @@
 - ⚡ Currently Working on:
   - [x] Minecraft custom hud in **Json UI** for a **Minecraft Server**
   - [ ] Custom bedrock client like **Better Bedrock**
+<br>
 
+> [!IMPORTANT]
+> I am not a **professional developer**; I do this in my free time because I **enjoy** it.
 <!---
 VelifoxOff/VelifoxOff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
