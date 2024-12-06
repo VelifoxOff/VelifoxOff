@@ -1,4 +1,6 @@
-- 👋 Hi, I’m **@VelifoxOff**
+# 👋 Hi, I’m **@VelifoxOff**
+[![GitHub: @VelifoxOff](https://img.shields.io/github/followers/VelifoxOff?label=follow&style=social)](https://github.com/VelifoxOff)
+[![Gmail: Velifoxxyz](https://img.shields.io/badge/Gmail-Velifoxxyz-red)](mailto:velifoxxyz@gmail.com)
 - 👀 I’m interested in **Minecraft devloppement** and **Web devloppement**
 - 🌱 I’m currently learning **json ui** and **bedrock scripting api**
 - 💞️ I’m looking to collaborate on **(idk)**
