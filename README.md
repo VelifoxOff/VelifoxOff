@@ -13,6 +13,7 @@
 - ⚡ Currently Working on:
   - [x] Minecraft custom hud in **Json UI** for a **Minecraft Server**
   - [ ] Custom bedrock client like **Better Bedrock**
+  - [x] Minecraft phone addon 
 <br>
 
 > [!IMPORTANT]
